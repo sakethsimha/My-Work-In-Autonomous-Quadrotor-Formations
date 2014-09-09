@@ -1,4 +1,4 @@
 My-Work-In-Autonomous-Quadrotor-Formations
 ==========================================
 
-Well, all the code I have been working on for autonomous communication between quadrotor is included here. 
+Moreover the libraries forlder has all the code written for xbee communication and the Sample codes are included too. There might be few bugs and the work goes on to get what I need. 
